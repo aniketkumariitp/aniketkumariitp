@@ -1,24 +1,54 @@
 <h1 align="center">Hi 👋, I'm Aniket..</h1>
 
 ###
-<h3 align="center">💻💻| FullStack Developer |💻💻</h3>
+<h3 align="center">  | 📊 Data Analysis |📱 For App Development | </h3>
 <img align="right" height="370" width="370" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJhdWFqZTE0OHIxcXU5MmMzMnJhNjJ6eGtnZTlwdWdxeXZmbmN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Q31McooUHTNu/giphy.gif"  />
 
 ###
 
-- 🔭 I’m currently working on *My Own Projects...*
+💼 Who Am I?
+Data Analyst & Hybrid Mobile App Developer, skilled in:
 
-- 🌱 I’m currently learning *Data Structures and Algorithm(DSA)*
+📊 Data Analysis & Visualization: Excel, Power BI, Matplotlib, Seaborn
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dev-Ankit-Ks](https://github.com/Dev-Ankit-Ks)
+🐍 Programming & Scripting: Python (Pandas, NumPy, Streamlit), SQL
 
-- 💬 Ask me about *Flutter & Android And Backend...*
+📱 App Development: Flutter & Dart for cross-platform mobile apps
 
-- 📫 How to reach me *devankit.ks@gmail.com*
+🧠 Statistical Analysis: Hypothesis Testing, A/B Testing, Data Cleaning
 
-- 📄 Know about my experiences -> Worked at Hexile Services as Freelancer 
+🔄 Automation & ETL: Python Automation, Power Query
+
+💾 Databases: MySQL, PostgreSQL
+
+From dashboards to full-stack mobile apps, I enjoy building solutions that are functional, insightful, and user-friendly.
 
 - ⚡ Fun fact *Android Studio also lags in macbook....😅😅*
+
+<h3 align="left">📊📈 For Data Analysis & Insights.... 📈📊</h3>
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
 <h3 align="left">📱📱 For App Development.... 📱📱</h3>
 
 ###
@@ -72,8 +102,18 @@
 
 <br clear="both">
 
+<h1 align="center"></h1>
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ankit-ks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dev-Ankit-ks&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=8" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Ankit-ks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniketkumariitp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+</div>
+
+###
